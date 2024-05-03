@@ -47,3 +47,7 @@ In the realm of technology, I find my true passion: programming. The allure of c
 My appetite for learning knows no bounds. I stand ready to embrace any programming language, delve into diverse databases, and master new software tools—all in pursuit of realizing my dream. The journey, though challenging, excites me; each obstacle is but another opportunity for growth. For that, I am willing to learn any programming language, databases and software to achieve my dream.
 
 Aside from programming, I have hobbies such as photography, doing outdoors activites such as hiking and fishing. It's fun and helps me learns more about this outside world, instead of just sitting in front of my screen 24/7. For photography, I love collecting beautiful photo because it's an art. For sports, I play pingpong and for my free time, all I do is learn a bunch of new life skill.
+
+<div align="right">
+    <img src="[img_girl.jpg](https://assets.harizasyraf.com/images/autograph-500x500.png)" alt="Hariz Signature">
+</div>
