@@ -51,3 +51,7 @@ Aside from programming, I have hobbies such as photography, doing outdoors activ
 <div align="right">
     <img src="https://assets.harizasyraf.com/images/digital-autograph-harizasyraf.png" alt="Hariz Signature" width="100">
 </div>
+
+<div>
+    <iframe src="https://lottie.host/embed/44ace95f-0270-47a7-88bf-c7c6b49be707/09Y3MldR2x.json"></iframe>
+</div>
